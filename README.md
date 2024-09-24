@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Alexander
+
+I was born and raised in the USSR and I'm living in Russia now.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alex-w)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **alex-w/alex-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
